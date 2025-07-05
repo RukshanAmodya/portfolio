@@ -1,4 +1,15 @@
-# React + Vite
+# 👋 Hi, I’m @RukshanAmodya
+
+- 👀 **I’m interested in** software engineering, AI development, web and mobile app development, game development, and building innovative tech solutions.
+- 🌱 **I’m currently learning** cutting-edge AI algorithms, deep learning, and optimizing performance for cross-platform applications.
+- 💞️ **I’m looking to collaborate on** open-source AI projects, software development, and creating impactful tools that make a difference.
+- 📫 **How to reach me**: You can connect with me via email (your email here) or through GitHub for collaborations and discussions.
+- 😄 **Pronouns**: He/Him
+- ⚡ **Fun fact**: I once solved a tricky bug in a codebase that no one else could figure out – and it turned out to be a simple typo. Sometimes, the smallest things make the biggest impact in coding!
+
+---
+
+## React + Vite Template Info
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
