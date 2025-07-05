@@ -321,7 +321,7 @@ const AboutSection = () => {
     "
   >
     <img
-      src="/assets/rukshan-face.png"
+      src="https://rukshanamodya.github.io/portfolio/assets/rukshan-face.png"
       alt="Rukshan Amodya"
       className="
         rounded-xl
