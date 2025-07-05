@@ -254,7 +254,7 @@ const HeroSection = () => (
           {/* Lottie / TGS visual */}
           <AnimateOnScroll className="w-full h-full" delay={200}>
             {/* Copy a .tgs file into public/stickers, eg party_parrot.tgs    /animations/AnimatedSticker.tgs*/}
-            <TgsPlayer path="https://github.com/RukshanAmodya/portfolio/blob/main/public/animations/AnimatedSticker.tgs" className="w-full h-full" />
+            <TgsPlayer path="https://rukshanamodya.github.io/portfolio/animations/AnimatedSticker.tgs" className="w-full h-full" />
           </AnimateOnScroll>
         </div>
       </div>
